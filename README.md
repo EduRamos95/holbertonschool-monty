@@ -86,7 +86,9 @@
 	* swap - The opcode swap swaps the top two elements of the stack.
 	* add - The opcode add adds the top two elements of the stack.
 	* nop - The opcode nop doesn’t do anything.
-	
-**Authors:**
 
-	* Franco Cardenas - Edu Ramos.
+---
+#### Authors:
+##### Franco Cardenas: 5156@holbertonstudents.com 
+##### Edu Ramos: 5162@holbertonstudents.com 
+---
